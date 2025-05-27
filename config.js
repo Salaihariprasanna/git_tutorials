@@ -1,4 +1,4 @@
-console.log("Version 2")
-console.log("This is the Second version.")
-console.log("This is the model for git.")
+console.log("Version 3")
+console.log("This is the Third version.")
+console.log("Check the version details.")
 
